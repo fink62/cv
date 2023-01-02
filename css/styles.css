@@ -4,7 +4,17 @@ Created by: Fink62
 */
 
 body {
+    background-color: #EAF6F6;
     font-family: Arial, sans-serif;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: lightgrey;
+    width: 10%
+}
+h1, h2, h3 {
+    color: #66BFBF;
 }
 .gNavbar {
     display: flex;
