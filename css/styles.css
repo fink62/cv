@@ -25,6 +25,9 @@ table {
 thead {
     text-align: left;
 }
+img:hover {
+    background-color: white;
+}
 .gNavbar {
     display: flex;
     flex-direction: row;
